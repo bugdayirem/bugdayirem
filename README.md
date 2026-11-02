@@ -2,9 +2,9 @@
 
 # Merhaba, ben İrem Buğday 👋
 
-**Gömülü Sistemler · IoT · RF ve Anten Tasarımı**
+**Yazılım Geliştirme · Web Teknolojileri · Python & SQL · IoT**
 
-Donanımı yazılımla buluşturan projeler geliştiriyorum.
+Web uygulamaları ve IoT projeleri geliştiriyor, veri analitiği ve yapay zekâ alanlarında kendimi geliştiriyorum.
 
 </div>
 
@@ -12,18 +12,19 @@ Donanımı yazılımla buluşturan projeler geliştiriyorum.
 
 ### Hakkımda
 
-Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği alanındaki eğitimim boyunca mikrodenetleyiciler, kablosuz haberleşme ve web arayüzleri üzerine projeler geliştirdim. Sensör verilerinin işlenmesinden uzaktan kontrol sistemlerine ve anten simülasyonlarına kadar farklı alanlarda çalıştım.
+Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği alanındaki eğitimimi yazılım projeleriyle birleştiriyorum. JavaScript, HTML ve CSS ile web uygulamaları geliştirdim; React, Python ve SQL ile çalıştım. Yazılım geliştirme, web teknolojileri ve veri analitiği alanlarında kariyerimi ilerletmek istiyorum.
 
-- **STM32, MSP430, Arduino ve ESP serisi** ile gömülü sistem ve IoT uygulamaları geliştirdim.
-- **CST Studio Suite** ile RF ve anten tasarımı üzerine çalıştım.
-- **Turkcell Global Bilgi** ve **Turkcell Şebeke Teknolojileri** stajlarında web geliştirme ve telekomünikasyon deneyimi kazandım.
-- **TEKNOFEST araç projesinde** iki yıl yazılım ekibi koordinatörlüğü yaptım.
-- Veri analitiği ve yapay zekâ alanlarında kendimi geliştiriyorum.
+- **Web geliştirme:** Turkcell Global Bilgi stajımda JavaScript ve HTML ile web tabanlı bir chat uygulaması geliştirdim.
+- **Veri ve yapay zekâ:** Python ve SQL ile çalışıyor, veri analitiği ve yapay zekâ eğitimleriyle kendimi geliştiriyorum.
+- **IoT ve gömülü yazılım:** STM32, MSP430, Arduino ve ESP serisiyle sensör verisi işleme ve uzaktan kontrol uygulamaları geliştirdim.
+- **Ekip çalışması:** TEKNOFEST araç projesinde iki yıl yazılım ekibi koordinatörlüğü yaptım.
+- **Haberleşme:** Turkcell Şebeke Teknolojileri stajında telekomünikasyon deneyimi kazandım; CST Studio Suite ile anten tasarımı üzerine çalıştım.
 
 ### Seçili Projeler
 
 | Proje | Çalışma | Teknolojiler |
 | :--- | :--- | :--- |
+| **Web Tabanlı Chat Uygulaması** | Turkcell Global Bilgi stajında kullanıcı dostu bir mesajlaşma arayüzü geliştirme çalışması. | JavaScript, HTML |
 | **SmartPetFeeder** | Web üzerinden uzaktan kontrol, evcil hayvan algılama, anlık görüntü gönderimi ve mama miktarı ayarlama özelliklerine sahip akıllı besleme sistemi. | ESP32-CAM, STM32, HTML, CSS, JavaScript, PHP, MySQL |
 | **Küçültülmüş Baskılı LPDA Anten** | Alternatif dipol geometrileriyle yaklaşık **%30–34 boyut küçültme**; S11, VSWR, bant genişliği ve ışıma diyagramı analizi. | CST Microwave Studio, RF, elektromanyetik simülasyon |
 | **MSP430 ile Renk Algılama** | Sekiz farklı rengi sınıflandıran ve sonucu RGB LED üzerinde gösteren gömülü sistem. | C, MSP430, TCS3200, Code Composer Studio |
@@ -45,6 +46,6 @@ Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği alanındaki eğit
 
 <div align="center">
 
-**Donanım, yazılım ve haberleşmenin kesişiminde üretmeye devam ediyorum.**
+**Yazılımla fikirleri çalışan uygulamalara dönüştürüyorum.**
 
 </div>
