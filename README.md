@@ -24,6 +24,8 @@ Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği alanındaki eğit
 
 | Proje | Çalışma | Teknolojiler |
 | :--- | :--- | :--- |
+| **[İstanbul Mobil İnternet Analizi ve Semt Sinyal](https://github.com/bugdayirem/istanbul-mobil-internet-analizi)** | İstanbul’un 39 ilçesinde mobil internet sonuçlarını inceleyen Power BI raporu; nüfus bilgisi ve açıklamalı ilçe karşılaştırması sunan [canlı web uygulaması](https://semt-sinyal.vercel.app/). | Power BI, DAX, Python, JavaScript, HTML, CSS, API, PWA |
+| **[London Mobile Coverage Analysis](https://github.com/bugdayirem/london-mobile-coverage-analysis)** | Ofcom açık verileriyle Londra’nın 32 ilçesi ve City of London için üç referans tarihinde tahmini 4G/5G kapsamasının ağırlıklı karşılaştırması. | Power BI, Power Query, DAX |
 | **Web Tabanlı Chat Uygulaması** | Turkcell Global Bilgi stajında kullanıcı dostu bir mesajlaşma arayüzü geliştirme çalışması. | JavaScript, HTML |
 | **SmartPetFeeder** | Web üzerinden uzaktan kontrol, evcil hayvan algılama, anlık görüntü gönderimi ve mama miktarı ayarlama özelliklerine sahip akıllı besleme sistemi. | ESP32-CAM, STM32, HTML, CSS, JavaScript, PHP, MySQL |
 | **Küçültülmüş Baskılı LPDA Anten** | Alternatif dipol geometrileriyle yaklaşık **%30–34 boyut küçültme**; S11, VSWR, bant genişliği ve ışıma diyagramı analizi. | CST Microwave Studio, RF, elektromanyetik simülasyon |
